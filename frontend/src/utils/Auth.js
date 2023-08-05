@@ -1,5 +1,4 @@
 const BASE_URL = 'https://mestogram.students.nomoreparties.co'
-//const BASE_URL = 'http://localhost:3000'
 
 const response = (res) => {
   if (res.ok) {

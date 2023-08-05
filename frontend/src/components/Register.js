@@ -1,6 +1,5 @@
 import React from "react";
 import Authorization from "./Authorization";
-//import { Link } from "react-router-dom";
 
 function Register(props) {
   const { handleDataForm, setCurrentRoute } = props;
