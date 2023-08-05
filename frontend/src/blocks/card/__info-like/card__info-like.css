@@ -1,0 +1,5 @@
+.card__info-like {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

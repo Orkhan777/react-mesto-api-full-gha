@@ -1,0 +1,13 @@
+.authorization {
+  width: 358px;
+  margin: 60px auto 112px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+@media screen and (max-width: 435px) {
+  .authorization {
+    width: 85%;
+  }
+}

@@ -1,0 +1,11 @@
+.authorization__input-error {
+  display: block;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 125%;
+  min-height: 30px;
+  color: #FF0000;
+  margin-top: -30px;
+}

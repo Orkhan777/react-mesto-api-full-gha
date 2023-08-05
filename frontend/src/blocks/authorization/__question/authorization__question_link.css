@@ -1,0 +1,8 @@
+.authorization__question_link {
+  text-decoration: none;
+  color: white;
+}
+
+.authorization__question_link:hover {
+  opacity: 0.6;
+}

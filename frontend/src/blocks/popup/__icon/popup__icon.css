@@ -1,0 +1,6 @@
+.popup__icon {
+    width: 120px;
+    aspect-ratio: 1/1;
+    object-fit: contain;
+    margin: 60px auto 0;
+}

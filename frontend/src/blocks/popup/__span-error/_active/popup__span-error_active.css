@@ -1,0 +1,17 @@
+.popup__span-error_active {
+  display: block;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #FF0000;
+  width: 358px;
+  position: absolute;
+}
+
+@media screen and (max-width: 645px) {
+  .popup__span-error_active {
+    width: 242px;
+  }
+}

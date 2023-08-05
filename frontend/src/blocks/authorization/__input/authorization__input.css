@@ -1,0 +1,15 @@
+.authorization__input {
+  display: block;
+  border: none;
+  width: 100%;
+  margin-bottom: 30px;
+  font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 121%;
+  background-color: #000000;
+  border-bottom: 1px solid white;
+  color: white;
+  padding-bottom: 13px;
+}

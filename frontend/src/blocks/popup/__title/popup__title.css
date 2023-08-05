@@ -1,0 +1,22 @@
+.popup__title {
+  margin: 34px 64px 54px 36px;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 29px;
+  color: #000000;
+  min-width: 330px;
+}
+
+@media screen and (max-width: 645px) {
+  .popup__title {
+    min-width: 238px;
+    margin: 25px 0 75px;
+    font-size: 18px;
+    line-height: 22px;
+  }
+}
+
+
+.popup__title-delete {
+  margin: 34px 36px 38px;
+}

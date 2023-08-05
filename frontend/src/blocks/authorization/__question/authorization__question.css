@@ -1,0 +1,10 @@
+.authorization__question {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 121%;
+  text-align: center;
+  color: white;
+  margin: 15px auto 0;
+}

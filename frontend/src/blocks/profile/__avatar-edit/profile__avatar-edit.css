@@ -1,0 +1,11 @@
+.profile__avatar-edit {
+  display: flex;
+  background-image: url(../../../images/EditAvatar.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #000;
+  min-width: 124px;
+  height: 124px;
+  border-radius: 50%;
+  aspect-ratio: 1/1;
+}

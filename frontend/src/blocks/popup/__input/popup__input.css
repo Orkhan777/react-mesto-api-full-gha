@@ -1,0 +1,19 @@
+.popup__input {
+  display: flex;
+  min-width: 358px;
+  min-height: 27px;
+  justify-content: flex-start;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  padding-bottom: 13px;
+  border: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 645px) {
+  .popup__input {
+    min-width: 238px;
+  } 
+}
