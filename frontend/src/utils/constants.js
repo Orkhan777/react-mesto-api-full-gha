@@ -1,6 +1,5 @@
 const apiSetting = {
-  //url: 'http://mestogram.students.nomoreparties.co',
-  url: 'http://localhost:3000',
+  url: 'https://mestogram.students.nomoreparties.co',
   headers: {
     'Content-Type': 'application/json'
   },

@@ -21,7 +21,7 @@ const app = express();
 
 const corsOptions = {
   origin: [
-    'http://mestogram.nomoreparties.co',
+    'https://mestogram.nomoreparties.co',
     'http://localhost:3000',
     'http://localhost:3001',
   ],

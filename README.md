@@ -9,8 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес x.x.x.x
+IP-адрес 158.160.21.9
 
-Frontend https://...
-
-Backend https://...
+Frontend https://mestogram.nomoreparties.co
+Backend  https://mestogram.students.nomoreparties.co
