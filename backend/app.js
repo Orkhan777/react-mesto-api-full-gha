@@ -22,8 +22,9 @@ const app = express();
 const corsOptions = {
   origin: [
     'https://mestogram.nomoreparties.co',
-    'http://localhost:3000',
-    'http://localhost:3001',
+    'https://localhost:3000',
+    'https://mestogram.students.nomoreparties.co'
+    // 'http://localhost:3001',
   ],
   // eslint-disable-next-line no-dupe-keys
   methods: ['GET', 'PUT', 'POST', 'PATCH', 'DELETE'],
